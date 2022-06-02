@@ -1,2 +1,6 @@
-# README-Test
-Lesson 2.4.5: Styling with README.md
+# README - Test
+## First Commit Repo
+
+### There was an error before this. I forgot to leave a commit message.
+
+*Welcome to my repository of FinTech projects. Please explore the codebase!*
