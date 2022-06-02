@@ -2,7 +2,7 @@
 ---
 ## First Commit Repo
 
-![One large image that shows my dog.](images/taro.jpg)
+![One large image that shows my dog.](images/taro.jpeg)
 
 ---
 ### **There was an error before this. I forgot to leave a commit message.**
