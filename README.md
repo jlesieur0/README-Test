@@ -1,6 +1,9 @@
 # README - Test
 ---
 ## First Commit Repo
+
+![One large image that shows my dog.](images/taro.jpg)
+
 ---
 ### **There was an error before this. I forgot to leave a commit message.**
 ---
@@ -17,8 +20,9 @@ print(text)
 
 ## Directory
 
-[Programs](code)
+[Programs](https://github.com/jlesieur0/README-Test/tree/main/Test_Folder)
 
 [Data files](data)
 
 [References](references)
+
